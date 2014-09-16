@@ -1,0 +1,4 @@
+Content\Ball.xnb
+Content\BG.xnb
+Content\Player1.xnb
+Content\Player2.xnb

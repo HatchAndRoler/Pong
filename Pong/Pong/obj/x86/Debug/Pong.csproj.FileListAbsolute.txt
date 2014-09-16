@@ -1,0 +1,10 @@
+C:\Users\yonnbro\Desktop\בית ספר\מדעח\XNA\Pong\Pong\Pong\bin\x86\Debug\Content\Ball.xnb
+C:\Users\yonnbro\Desktop\בית ספר\מדעח\XNA\Pong\Pong\Pong\bin\x86\Debug\Content\BG.xnb
+C:\Users\yonnbro\Desktop\בית ספר\מדעח\XNA\Pong\Pong\Pong\bin\x86\Debug\Content\Player1.xnb
+C:\Users\yonnbro\Desktop\בית ספר\מדעח\XNA\Pong\Pong\Pong\bin\x86\Debug\Content\Player2.xnb
+C:\Users\yonnbro\Desktop\בית ספר\מדעח\XNA\Pong\Pong\Pong\bin\x86\Debug\Pong.exe
+C:\Users\yonnbro\Desktop\בית ספר\מדעח\XNA\Pong\Pong\Pong\bin\x86\Debug\Pong.pdb
+C:\Users\yonnbro\Desktop\בית ספר\מדעח\XNA\Pong\Pong\Pong\obj\x86\Debug\Pong.csprojResolveAssemblyReference.cache
+C:\Users\yonnbro\Desktop\בית ספר\מדעח\XNA\Pong\Pong\Pong\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\yonnbro\Desktop\בית ספר\מדעח\XNA\Pong\Pong\Pong\obj\x86\Debug\Pong.exe
+C:\Users\yonnbro\Desktop\בית ספר\מדעח\XNA\Pong\Pong\Pong\obj\x86\Debug\Pong.pdb
